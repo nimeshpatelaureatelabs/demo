@@ -1,28 +1,25 @@
-## Cron Scheduler for Magento 2
+## CronScheduler by Kiwi Commerce Ltd
 
-#### Monitor the cron tasks that run in the background of your Magento® 2 website
-Visualize the cron tasks in a timeline that offers a clear 
-and understandable view of what is going on 
-in the background of your Magento® website. 
+#### You can view and analyze the all cron job of the system. 
+You can run your cron job any time using the admin panel.
+You have the total control of all the cron job running in the setup. 
 
-<img src="http://kiwi.aureatelabshq.com/wp-content/uploads/2018/05/schedule-list.png"/>
+#### List of Cron Jobs
 
-#### List all cron jobs and check the configurations
-Get a detailed list to all cron jobs that run under your Magento® 2 website and check the configuration for each task individually
+You will have list of all cron jobs with their groups, cron expression, job code and other useful information.
 
-<img src="http://kiwi.aureatelabshq.com/wp-content/uploads/2018/05/schedule-list.png"/>
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronjob.png"/>
 
-#### Run and schedule cron jobs manually
+#### Cron Job Schedule list
 
-No need to access the CLI to run your cron job and/or schedule new jobs.  Manually trigger the process from your Magento® back-office.
+You will have a list of schedule jobs with their respective status.
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/schedule-list.png"/>
 
-<img src="http://kiwi.aureatelabshq.com/wp-content/uploads/2018/05/schedule-list.png"/>
+#### Add New Cron Job
 
-#### Enjoy a new CLI to manage your cron tasks
+You can create a new cron job by clicking on Add New Cron Job. You need to add different valid information while creating it.
 
-Want to get more of the cron tasks from your CLI? Cron scheduler extends the CLI to give you a better control over the cron jobs
-
-<img src="http://kiwi.aureatelabshq.com/wp-content/uploads/2018/05/schedule-list.png"/>
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/addnewcronjob.png"/>
 
 ## Need more ?
 * Be notified about cron errors in real time by email and/or in your back-office
