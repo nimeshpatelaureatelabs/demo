@@ -44,5 +44,5 @@ You need to follow this path. Stores > Configuration > KIWICOMMERCE EXTENSIONS >
 
 You can analyze the actual time taken by each job on magento dashboard.
 
-<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/Configuration_cronscheduler.png"/> <br/>
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronscheduler_dashboard.png"/> <br/>
 
