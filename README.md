@@ -34,6 +34,15 @@ You will have beautiful timeline for each cron job.
 
 <img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/timeline.png"/> <br/>
 
+## Configuration
 
+You need to follow this path. Stores > Configuration > KIWICOMMERCE EXTENSIONS > Cron Scheduler
 
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/Configuration_cronscheduler.png"/> <br/>
+
+## Dashoboard
+
+You can analyze the actual time taken by each job on magento dashboard.
+
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/Configuration_cronscheduler.png"/> <br/>
 
