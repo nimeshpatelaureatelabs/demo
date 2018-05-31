@@ -34,7 +34,7 @@ You can create a new cron job by clicking on Add New Cron Job. You need to add d
 
 You will have beautiful timeline for each cron job.
 
-<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/timeline.png"/> <br/>
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/timeline.png" /> <br/>
 
 ### Configuration
 
@@ -46,8 +46,13 @@ You need to follow this path. Stores > Configuration > KIWICOMMERCE EXTENSIONS >
 
 You can analyze the actual time taken by each job on magento dashboard.
 
-<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronscheduler_dashboard.png"/> <br/>
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronscheduler_dashboard.png" height="250"/> <br/>
 
 ## Documentation
 
-You can have detail information on this <a href="http://159.65.148.111/docs/cron_scheduler/">Documentaion</a>.
+You can have detail information on this <a href="https://kiwicommerce.co.uk/docs/cron_scheduler/">Documentaion</a>.
+
+## Issue Reporting.
+Before creating a issue please make sure to follow this <a href="https://kiwicommerce.co.uk/docs/issue_reporting_guidelines/">guidelines</a> or it will be ignored.
+
+You can create issue at <a href="https://github.com/saurabh-aureate/demo/issues">here</a>.
