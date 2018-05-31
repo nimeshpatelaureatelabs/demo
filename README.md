@@ -1,12 +1,13 @@
 ## CronScheduler by Kiwi Commerce Ltd
 
-Easily setup cron job
-Manage cron job from the backend
-Have a beautiful and managed timeline feature
-See the longest running cron job on Dashboard
-Receive an email if any cron job produce a fatal error
-Find the actual load on CPU/Memory by cron job execution
-Automatically kill the long running job
+### Overview
+- You can Easily setup cron job
+- Manage cron job from the backend
+- Have a beautiful and managed timeline feature
+- See the longest running cron job on Dashboard
+- Receive an email if any cron job produce a fatal error
+- Find the actual load on CPU/Memory by cron job execution
+- Automatically kill the long running job
 
 Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cron-scheduler/">Kiwi Commerce Ltd</a>
 
@@ -15,6 +16,7 @@ Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cro
 You will have list of all cron jobs with their groups, cron expression, job code and other useful information.
 
 <img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronjob.png"/>
+
 
 ## Cron Job Schedule list
 
