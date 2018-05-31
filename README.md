@@ -1,8 +1,14 @@
 ## CronScheduler by Kiwi Commerce Ltd
 
-#### You can view and analyze the all cron job of the system. 
-You can run your cron job any time using the admin panel.
-You have the total control of all the cron job running in the setup. 
+Easily setup cron job
+Manage cron job from the backend
+Have a beautiful and managed timeline feature
+See the longest running cron job on Dashboard
+Receive an email if any cron job produce a fatal error
+Find the actual load on CPU/Memory by cron job execution
+Automatically kill the long running job
+
+Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cron-scheduler/">Kiwi Commerce Ltd</a>
 
 ## Cron Jobs
 
