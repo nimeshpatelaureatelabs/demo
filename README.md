@@ -50,4 +50,4 @@ You can analyze the actual time taken by each job on magento dashboard.
 
 ## Documentation
 
-You can have detail information on this. <a href="http://159.65.148.111/docs/cron_scheduler/">Documentaion</a>
+You can have detail information on this <a href="http://159.65.148.111/docs/cron_scheduler/">Documentaion</a>.
