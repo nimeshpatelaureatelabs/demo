@@ -48,3 +48,6 @@ You can analyze the actual time taken by each job on magento dashboard.
 
 <img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronscheduler_dashboard.png"/> <br/>
 
+## Documentation
+
+You can have detail information on this. <a href="http://159.65.148.111/docs/cron_scheduler/">Documentaion</a>
