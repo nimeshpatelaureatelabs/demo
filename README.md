@@ -4,18 +4,18 @@
 You can run your cron job any time using the admin panel.
 You have the total control of all the cron job running in the setup. 
 
-#### List of Cron Jobs
+## Cron Jobs
 
 You will have list of all cron jobs with their groups, cron expression, job code and other useful information.
 
 <img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronjob.png"/>
 
-#### Cron Job Schedule list
+## Cron Job Schedule list
 
 You will have a list of schedule jobs with their respective status.
 <img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/schedule-list.png"/>
 
-#### Add New Cron Job
+## Add New Cron Job
 
 You can create a new cron job by clicking on Add New Cron Job. You need to add different valid information while creating it.
 
