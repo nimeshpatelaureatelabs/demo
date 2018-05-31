@@ -15,22 +15,25 @@ Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cro
 
 You will have list of all cron jobs with their groups, cron expression, job code and other useful information.
 
-<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronjob.png"/>
-
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/cronjob.png"/><br/>
 
 ## Cron Job Schedule list
 
 You will have a list of schedule jobs with their respective status.
-<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/schedule-list.png"/>
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/schedule-list.png"/><br/>
 
 ## Add New Cron Job
 
 You can create a new cron job by clicking on Add New Cron Job. You need to add different valid information while creating it.
 
-<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/addnewcronjob.png"/>
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/addnewcronjob.png"/> <br/>
 
-## Need more ?
-* Be notified about cron errors in real time by email and/or in your back-office
-* Manage each cron job individually from your Magento® 2 back-office
-* Take control over cron jobs through the CLI or the Magento® API
+## Timeline
+
+You will have beautiful timeline for each cron job.
+
+<img src="https://kiwicommerce.co.uk/wp-content/uploads/2018/05/timeline.png"/> <br/>
+
+
+
 
