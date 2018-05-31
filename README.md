@@ -50,9 +50,9 @@ You can analyze the actual time taken by each job on magento dashboard.
 
 ## Documentation
 
-You can have detail information on this <a href="https://kiwicommerce.co.uk/docs/cron_scheduler/">Documentaion</a>.
+For more detail, please check the <a href="https://kiwicommerce.co.uk/docs/cron_scheduler/">Documentaion</a>.
 
 ## Issue Reporting.
-Before creating a issue please make sure to follow this <a href="https://kiwicommerce.co.uk/docs/issue_reporting_guidelines/">guidelines</a> or it will be ignored.
+Before doing issue reporting, please make sure you followed all <a href="https://kiwicommerce.co.uk/docs/issue_reporting_guidelines/">guidelines</a> properly.
 
-You can create issue at <a href="https://github.com/saurabh-aureate/demo/issues">here</a>.
+In case of further help, kindly create a <a href="https://github.com/saurabh-aureate/demo/issues">new issue here</a>.
